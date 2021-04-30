@@ -51,7 +51,7 @@ To Download and run the Raspberry Pi Imager visit the [Raspberry Pi downloads pa
 Click on the link for the Raspberry Pi Imager that matches your operating system.
 
 When the download is complete, click on it to launch the installer.
-When you start the installer, your operating system may try to block its execution (In that case you have to click ** more info ** within the installer window to continue and click ** Run anyway **).
+When you start the installer, your operating system may try to block its execution (In that case you have to click ** more info ** within the installer window to continue and click **Run anyway**).
  
 Once Raspberry Pi imager is installed
  
