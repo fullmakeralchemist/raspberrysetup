@@ -236,5 +236,5 @@ With these steps completed, our Raspberry is ready for us to use for our project
  
 If you want to know more about how to start Raspberry for the first time, visit its official page [Setting up Raspberry](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)
  
-In case you are interested, you can review the guide on how to install Visual Studio Code and Git on Raspberry Pi.
+In case you are interested, you can review the guide on [how to install Visual Studio Code and Git on Raspberry Pi](https://github.com/fullmakeralchemist/gitvscoderaspberry).
 
