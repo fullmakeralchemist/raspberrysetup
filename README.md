@@ -194,7 +194,7 @@ Once logged in from our Windows computer we will be able to see the desktop of o
  
 When you start your Raspberry Pi for the first time, the Welcome to Raspberry Pi application will appear and guide you through the initial setup. Click Next to start the configuration.
 
-![inicioRaspMEDIUM](https://user-images.githubusercontent.com/79243784/116727044-abb0f400-a9a9-11eb-8f14-025c30ee7f29.png)
+![inicioRaspMEDIUM](https://user-images.githubusercontent.com/79243784/119272320-f7cb0f00-bbca-11eb-911a-9cf0b180c3e2.png)
 
 ![NEXTmediuminicio](https://user-images.githubusercontent.com/79243784/116727522-4dd0dc00-a9aa-11eb-8f97-e13f60915045.png)
 
